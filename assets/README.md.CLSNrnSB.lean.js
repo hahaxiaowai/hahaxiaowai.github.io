@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,a7 as o}from"./chunks/framework.BJd-zmx9.js";const u=JSON.parse('{"title":"todo","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),a={name:"README.md"},t=o("",6),s=[t];function r(n,c,d,h,_,m){return e(),i("div",null,s)}const f=l(a,[["render",r]]);export{u as __pageData,f as default};

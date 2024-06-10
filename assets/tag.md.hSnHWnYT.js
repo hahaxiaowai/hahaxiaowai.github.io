@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.BJd-zmx9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"tag"},"headers":[],"relativePath":"tag.md","filePath":"tag.md"}'),o={name:"tag.md"};function r(s,c,n,p,_,d){return e(),a("div")}const f=t(o,[["render",r]]);export{m as __pageData,f as default};
