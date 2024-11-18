@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.BDRxOqQP.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"memo"},"headers":[],"relativePath":"memo.md","filePath":"page/memo.md","lastUpdated":1731928712000}'),o={name:"memo.md"};function m(r,s,c,n,p,d){return t(),a("div")}const l=e(o,[["render",m]]);export{i as __pageData,l as default};
