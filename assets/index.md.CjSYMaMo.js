@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.CoTv16_l.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"blog"},"headers":[],"relativePath":"index.md","filePath":"page/index.md","lastUpdated":1733996503000}'),n={name:"index.md"};function o(r,s,d,c,i,p){return a(),t("div")}const m=e(n,[["render",o]]);export{l as __pageData,m as default};
