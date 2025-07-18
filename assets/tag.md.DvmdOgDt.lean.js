@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e}from"./chunks/framework.JA_jVa1h.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"tag"},"headers":[],"relativePath":"tag.md","filePath":"page/tag.md","lastUpdated":1743354757000}'),o={name:"tag.md"};function r(s,c,n,p,d,_){return e(),a("div")}const m=t(o,[["render",r]]);export{l as __pageData,m as default};
