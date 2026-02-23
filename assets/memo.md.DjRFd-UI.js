@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.BpfVCkTD.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"memo"},"headers":[],"relativePath":"memo.md","filePath":"pages/memo.md","lastUpdated":1771854755000}'),o={name:"memo.md"};function m(r,s,c,n,p,d){return t(),a("div")}const l=e(o,[["render",m]]);export{i as __pageData,l as default};
